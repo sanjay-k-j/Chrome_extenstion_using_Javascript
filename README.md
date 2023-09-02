@@ -7,7 +7,6 @@ Web Link Saver is a Chrome extension that allows you to save and manage a list o
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#Demo)
 - [Deployment](#deployment)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
