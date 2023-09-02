@@ -54,4 +54,4 @@ The project doesn't have any external dependencies or libraries. It's a Chrome e
 
 Contributions to this project are welcome! If you have any ideas for improvements, new features, or bug fixes, feel free to submit a pull request or open an issue.
 
-If you wants help in implementation reach out 'projectwithsanjay@gmail.com'
+If you wants help in implementation reach out 'projectswithsanjay@gmail.com'
