@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 250px;
+}
+
+
+#input-el{
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+
+}
+
+#save-el{
+    padding: 10px 20px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(35, 161, 35);
+    width: fit-content;
+    border-radius: 5px;
+    margin-top:5px ;
+    border: none;
+}
+
+ul{
+    margin-top:20px ;
+    list-style: none;
+    padding-left: 0%;
+}
+
+a{
+    color: rgb(14, 198, 11);
+}
+
+li{
+ margin-top: 5px;
+}
