@@ -1,57 +1,51 @@
-# Web Link Saver Chrome Extension
+# My Chrome Extension
 
-Web Link Saver is a Chrome extension that allows you to save and manage a list of website links. It provides a user-friendly interface to input website URLs, save them, and view them as clickable links directly from your browser's toolbar.
+## Overview
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+This is a Chrome extension that allows you to save and manage your favorite website links. You can easily add links to your list, open them in new tabs, and delete them when you no longer need them. It's a handy tool for keeping track of websites you frequently visit.
 
 ## Features
 
-- **Input Field**: Enter website URLs in the input field.
-- **Save Button**: Click the "SAVE BUTTON" in the browser's toolbar to save the entered URLs.
-- **List Display**: View the saved URLs as clickable links in a list.
-- **Link Validation**: Automatically adds "http://" to URLs without it.
-- **Open in New Tab**: Click on the links to open them in a new tab.
+- **Save Links:** Add website links to your list by entering them into the input field and clicking the "SAVE BUTTON."
+
+- **Open Tabs:** Use the "SAVE TAB" button to save the current tab's URL to your list.
+
+- **View and Visit Links:** Your saved links are displayed as clickable items in a list format. Clicking on a link opens it in a new tab.
+
+- **Delete Links:** Remove all saved links by double-clicking the "Delete all" button.
 
 ## Installation
+
+To use this extension, follow these steps:
 
 1. Clone or download this repository to your local machine.
 
 2. Open Google Chrome.
 
-3. Navigate to `chrome://extensions/`.
+3. Navigate to `chrome://extensions/` in your Chrome browser.
 
-4. Enable "Developer mode" in the top-right corner.
+4. Enable "Developer mode" by toggling the switch in the top right corner of the page.
 
-5. Click the "Load unpacked" button and select the extension folder from this repository.
+5. Click on the "Load unpacked" button and select the directory where you cloned or downloaded this extension.
 
-6. The Web Link Saver extension icon should now appear in your browser's toolbar.
+6. The extension should now be installed and visible in your Chrome browser.
 
 ## Usage
 
-1. Click the Web Link Saver extension icon in the toolbar.
+1. Click on the extension icon in your Chrome browser to open the extension popup.
 
-2. Enter website URLs in the input field and click the "SAVE BUTTON" to save them.
+2. Enter a URL into the input field and click the "SAVE BUTTON" to save it.
 
-3. View the saved links as clickable items in the list.
+3. Click the "SAVE TAB" button to save the URL of the current tab.
 
-## Deployment
+4. Your saved links will be displayed in a list. Click on a link to open it in a new tab.
 
-This Chrome extension is deployed and available for use in the Chrome Web Store. You can install it directly from the store [here](#).
-
-## Dependencies
-
-The project doesn't have any external dependencies or libraries. It's a Chrome extension developed using HTML, CSS, and JavaScript.
+5. Double-click the "Delete all" button to clear all saved links.
 
 ## Contributing
 
-Contributions to this project are welcome! If you have any ideas for improvements, new features, or bug fixes, feel free to submit a pull request or open an issue.
+Contributions are welcome! If you have ideas for improvements or encounter any issues, please open an issue or submit a pull request on the GitHub repository.
 
-If you wants help in implementation reach out 'projectswithsanjay@gmail.com'
+## Acknowledgments
+
+This extension was created with JavaScript, HTML, and CSS. It utilizes local storage to store saved links and the Chrome API to interact with browser tabs.
